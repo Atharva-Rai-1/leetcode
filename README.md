@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Atharva-Rai-1/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Atharva-Rai-1/leetcode/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Atharva-Rai-1/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Atharva-Rai-1/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Atharva-Rai-1/leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Atharva-Rai-1/leetcode/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Atharva-Rai-1/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Atharva-Rai-1/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Ternary Search
 |  |
 | ------- |
