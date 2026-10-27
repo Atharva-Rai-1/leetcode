@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Atharva-Rai-1/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Atharva-Rai-1/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Atharva-Rai-1/leetcode/tree/master/0258-add-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Atharva-Rai-1/leetcode/tree/master/0069-sqrtx) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Atharva-Rai-1/leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Atharva-Rai-1/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
